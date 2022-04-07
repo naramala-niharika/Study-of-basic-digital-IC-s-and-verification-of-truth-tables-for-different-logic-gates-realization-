@@ -86,9 +86,8 @@ endmodule
 */
 ```
 ## Logic symbol & Truthtable:
-```
+
 ![Output](https://github.com/naramala-niharika/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/blob/main/de%20ex1.PNG?raw=true)
-```
 ## Output:
 ```
 RTL
